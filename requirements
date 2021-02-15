@@ -1,0 +1,6 @@
+requirement of program to work :
+
+1. python3
+2. Firefox browser
+3. selenium (pip install selenium)
+4. datetime (pip install datetime)
