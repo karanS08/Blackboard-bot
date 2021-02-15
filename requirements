@@ -4,3 +4,6 @@ requirement of program to work :
 2. Firefox browser
 3. selenium (pip install selenium)
 4. datetime (pip install datetime)
+5. Geckodriver drivers 
+For windows -https://stackoverflow.com/questions/42524114/how-to-install-geckodriver-on-a-windows-system
+For mac - https://medium.com/dropout-analytics/selenium-and-geckodriver-on-mac-b411dbfe61bc
